@@ -203,7 +203,7 @@ p {
 }
 
 /* レビューの画像を修正 */
-.review_img {
+.reviewer_img {
   /* サイズを48px */
   width: 48px;
   height: 48px;
